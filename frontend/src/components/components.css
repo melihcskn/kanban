@@ -1,0 +1,52 @@
+.board__list {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.board__history {
+  width: 20%;
+  min-width: min-content;
+  margin: auto;
+  padding: 2rem;
+}
+
+.board__history__link {
+  text-decoration: none;
+  color: white;
+}
+
+.taskList {
+  border-radius: 2rem;
+  min-width: 12rem;
+  width: 10vw;
+  max-width: 30vw;
+  min-height: 15rem;
+  height: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.card {
+  min-height: 4rem;
+  color: white;
+  margin: 1rem;
+  justify-content: center;
+  border-radius: 1rem;
+}
+
+.card__textArea {
+  background-color: transparent;
+  border-color: transparent;
+  border: none;
+  outline-style: none;
+  outline: none;
+  box-sizing: border-box;
+  display: inline-block;
+  resize: none;
+  width: 90%;
+}
+
+.taskList h2 {
+  color: white;
+}
