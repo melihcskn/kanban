@@ -1,2 +1,2 @@
-# kanban
+# kanban board
  
